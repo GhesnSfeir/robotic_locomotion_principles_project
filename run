@@ -1,1 +1,1 @@
-pyrobot -s RosServer -c rosaria.cfg -r Ros.py -b ~/GhesnSfeir/Seminar_12/main_ghesn_sfeir.py
+pyrobot -s PyrobotSimulator -w ./World.py -r PyrobotRobot60000.py -b ./brain_ghesn_sfeir.py
